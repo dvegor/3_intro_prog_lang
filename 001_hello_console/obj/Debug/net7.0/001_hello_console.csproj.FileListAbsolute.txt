@@ -1,0 +1,14 @@
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\001_hello_console\bin\Debug\net7.0\001_hello_console.exe
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\001_hello_console\bin\Debug\net7.0\001_hello_console.deps.json
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\001_hello_console\bin\Debug\net7.0\001_hello_console.runtimeconfig.json
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\001_hello_console\bin\Debug\net7.0\001_hello_console.dll
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\001_hello_console\bin\Debug\net7.0\001_hello_console.pdb
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\001_hello_console\obj\Debug\net7.0\001_hello_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\001_hello_console\obj\Debug\net7.0\001_hello_console.AssemblyInfoInputs.cache
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\001_hello_console\obj\Debug\net7.0\001_hello_console.AssemblyInfo.cs
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\001_hello_console\obj\Debug\net7.0\001_hello_console.csproj.CoreCompileInputs.cache
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\001_hello_console\obj\Debug\net7.0\001_hello_console.dll
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\001_hello_console\obj\Debug\net7.0\refint\001_hello_console.dll
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\001_hello_console\obj\Debug\net7.0\001_hello_console.pdb
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\001_hello_console\obj\Debug\net7.0\001_hello_console.genruntimeconfig.cache
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\001_hello_console\obj\Debug\net7.0\ref\001_hello_console.dll
