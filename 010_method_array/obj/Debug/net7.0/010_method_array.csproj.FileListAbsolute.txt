@@ -1,0 +1,14 @@
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\010_method_array\obj\Debug\net7.0\010_method_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\010_method_array\obj\Debug\net7.0\010_method_array.AssemblyInfoInputs.cache
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\010_method_array\obj\Debug\net7.0\010_method_array.AssemblyInfo.cs
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\010_method_array\obj\Debug\net7.0\010_method_array.csproj.CoreCompileInputs.cache
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\010_method_array\bin\Debug\net7.0\010_method_array.exe
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\010_method_array\bin\Debug\net7.0\010_method_array.deps.json
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\010_method_array\bin\Debug\net7.0\010_method_array.runtimeconfig.json
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\010_method_array\bin\Debug\net7.0\010_method_array.dll
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\010_method_array\bin\Debug\net7.0\010_method_array.pdb
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\010_method_array\obj\Debug\net7.0\010_method_array.dll
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\010_method_array\obj\Debug\net7.0\refint\010_method_array.dll
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\010_method_array\obj\Debug\net7.0\010_method_array.pdb
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\010_method_array\obj\Debug\net7.0\010_method_array.genruntimeconfig.cache
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\010_method_array\obj\Debug\net7.0\ref\010_method_array.dll
