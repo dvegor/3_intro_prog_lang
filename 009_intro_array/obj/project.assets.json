@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\dvego\\OneDrive\\Документы\\=GeekBrains\\3_intro_prog_lang\\3_lection-prog\\001_hello_console\\001_hello_console.csproj",
-      "projectName": "001_hello_console",
-      "projectPath": "c:\\Users\\dvego\\OneDrive\\Документы\\=GeekBrains\\3_intro_prog_lang\\3_lection-prog\\001_hello_console\\001_hello_console.csproj",
+      "projectUniqueName": "C:\\Users\\dvego\\OneDrive\\Документы\\=GeekBrains\\3_intro_prog_lang\\3_lection-prog\\009_intro_array\\009_intro_array.csproj",
+      "projectName": "009_intro_array",
+      "projectPath": "C:\\Users\\dvego\\OneDrive\\Документы\\=GeekBrains\\3_intro_prog_lang\\3_lection-prog\\009_intro_array\\009_intro_array.csproj",
       "packagesPath": "C:\\Users\\dvego\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\dvego\\OneDrive\\Документы\\=GeekBrains\\3_intro_prog_lang\\3_lection-prog\\001_hello_console\\obj\\",
+      "outputPath": "C:\\Users\\dvego\\OneDrive\\Документы\\=GeekBrains\\3_intro_prog_lang\\3_lection-prog\\009_intro_array\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dvego\\AppData\\Roaming\\NuGet\\NuGet.Config"
