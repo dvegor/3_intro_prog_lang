@@ -1,0 +1,14 @@
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\011_array_library\obj\Debug\net7.0\011_array_library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\011_array_library\obj\Debug\net7.0\011_array_library.AssemblyInfoInputs.cache
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\011_array_library\obj\Debug\net7.0\011_array_library.AssemblyInfo.cs
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\011_array_library\obj\Debug\net7.0\011_array_library.csproj.CoreCompileInputs.cache
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\011_array_library\bin\Debug\net7.0\011_array_library.exe
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\011_array_library\bin\Debug\net7.0\011_array_library.deps.json
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\011_array_library\bin\Debug\net7.0\011_array_library.runtimeconfig.json
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\011_array_library\bin\Debug\net7.0\011_array_library.dll
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\011_array_library\bin\Debug\net7.0\011_array_library.pdb
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\011_array_library\obj\Debug\net7.0\011_array_library.dll
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\011_array_library\obj\Debug\net7.0\refint\011_array_library.dll
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\011_array_library\obj\Debug\net7.0\011_array_library.pdb
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\011_array_library\obj\Debug\net7.0\011_array_library.genruntimeconfig.cache
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\011_array_library\obj\Debug\net7.0\ref\011_array_library.dll
