@@ -1,0 +1,14 @@
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\013_for_training\obj\Debug\net7.0\013_for_training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\013_for_training\obj\Debug\net7.0\013_for_training.AssemblyInfoInputs.cache
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\013_for_training\obj\Debug\net7.0\013_for_training.AssemblyInfo.cs
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\013_for_training\obj\Debug\net7.0\013_for_training.csproj.CoreCompileInputs.cache
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\013_for_training\bin\Debug\net7.0\013_for_training.exe
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\013_for_training\bin\Debug\net7.0\013_for_training.deps.json
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\013_for_training\bin\Debug\net7.0\013_for_training.runtimeconfig.json
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\013_for_training\bin\Debug\net7.0\013_for_training.dll
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\013_for_training\bin\Debug\net7.0\013_for_training.pdb
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\013_for_training\obj\Debug\net7.0\013_for_training.dll
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\013_for_training\obj\Debug\net7.0\refint\013_for_training.dll
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\013_for_training\obj\Debug\net7.0\013_for_training.pdb
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\013_for_training\obj\Debug\net7.0\013_for_training.genruntimeconfig.cache
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\013_for_training\obj\Debug\net7.0\ref\013_for_training.dll
