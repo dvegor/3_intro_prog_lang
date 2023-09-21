@@ -1,0 +1,14 @@
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\014_array_order\bin\Debug\net7.0\014_array_order.exe
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\014_array_order\bin\Debug\net7.0\014_array_order.deps.json
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\014_array_order\bin\Debug\net7.0\014_array_order.runtimeconfig.json
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\014_array_order\bin\Debug\net7.0\014_array_order.dll
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\014_array_order\bin\Debug\net7.0\014_array_order.pdb
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\014_array_order\obj\Debug\net7.0\014_array_order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\014_array_order\obj\Debug\net7.0\014_array_order.AssemblyInfoInputs.cache
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\014_array_order\obj\Debug\net7.0\014_array_order.AssemblyInfo.cs
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\014_array_order\obj\Debug\net7.0\014_array_order.csproj.CoreCompileInputs.cache
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\014_array_order\obj\Debug\net7.0\014_array_order.dll
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\014_array_order\obj\Debug\net7.0\refint\014_array_order.dll
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\014_array_order\obj\Debug\net7.0\014_array_order.pdb
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\014_array_order\obj\Debug\net7.0\014_array_order.genruntimeconfig.cache
+C:\Users\dvego\OneDrive\Документы\=GeekBrains\3_intro_prog_lang\3_lection-prog\014_array_order\obj\Debug\net7.0\ref\014_array_order.dll
